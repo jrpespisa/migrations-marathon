@@ -4,3 +4,10 @@
 # Example:
 #
 #   Person.create(first_name: 'Eric', last_name: 'Kelly')
+
+
+Category.create(name: "Fiction")
+Category.create(name: "Horror")
+Category.create(name: "Sci-Fi")
+Category.create(name: "Fantasy")
+Category.create(name: "Non-Fiction")
